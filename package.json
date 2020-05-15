@@ -7,8 +7,8 @@
     "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-spectral.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Alex Johnson",
+    "email": "alex@xanderpages.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -39,9 +39,9 @@
     "rimraf": "^3.0.2"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-spectral"
+    "web development",
+    "mobile development",
+    "web hosting"
   ],
   "license": "MIT",
   "bugs": {
